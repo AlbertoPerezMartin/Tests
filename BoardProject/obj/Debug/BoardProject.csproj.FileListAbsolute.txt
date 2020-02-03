@@ -1,0 +1,7 @@
+C:\Users\Alberto\source\repos\BoardProject\BoardProject\bin\Debug\BoardProject.exe.config
+C:\Users\Alberto\source\repos\BoardProject\BoardProject\bin\Debug\BoardProject.exe
+C:\Users\Alberto\source\repos\BoardProject\BoardProject\bin\Debug\BoardProject.pdb
+C:\Users\Alberto\source\repos\BoardProject\BoardProject\obj\Debug\BoardProject.csprojAssemblyReference.cache
+C:\Users\Alberto\source\repos\BoardProject\BoardProject\obj\Debug\BoardProject.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\source\repos\BoardProject\BoardProject\obj\Debug\BoardProject.exe
+C:\Users\Alberto\source\repos\BoardProject\BoardProject\obj\Debug\BoardProject.pdb
